@@ -1,5 +1,5 @@
 package com.springrest.springrest.dao;
-//commit 1
+//commit 2
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.springrest.springrest.entities.Course;
